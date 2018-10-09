@@ -3,6 +3,7 @@
 **Breve descripción:** El profesor borra un usuario del sistema.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
@@ -27,4 +28,4 @@
 
 **Flujo alternativo:**
 
->2.a. Si no existe el alumno, el sistema muestra un mensaje de error.
+2.a. Si no existe el alumno, el sistema muestra un mensaje de error.

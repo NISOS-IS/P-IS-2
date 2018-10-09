@@ -3,6 +3,7 @@
 **Breve descripción:** EL profesor guarda una copia de seguridad.
 
 **Actores principales:** Profesor
+
 **Actores secundarios:** Alumnos
 
 **Precondiciones:**
@@ -21,4 +22,4 @@
 
 **Flujo alternativo:**
 
->2.a. Si se produce un fallo, el sistema muestra un mensaje de error.
+2.a. Si se produce un fallo, el sistema muestra un mensaje de error.
