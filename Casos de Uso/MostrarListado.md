@@ -1,5 +1,5 @@
 
-#### Mostrar Listado  
+### Mostrar Listado  
 **ID:** 005  
 **Breve descripcion:** El sistema muestra la lista de alumnos.  
   
