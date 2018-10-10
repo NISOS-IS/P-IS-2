@@ -18,5 +18,5 @@
 
 **Flujos alternativos:**  
 
-2.a. Si el alumno no existe por DNI, muestra un mensaje de error.
+2.a. Si el alumno no existe por DNI, muestra un mensaje de error.  
 2.b. Si el alumno no existe por Apellido, muestra un mensaje de error.
