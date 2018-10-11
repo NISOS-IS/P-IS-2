@@ -2,8 +2,8 @@
 
 **Actores:**
 
-	 **Principal:** Profesor
-	* **Secundarios:** Alumnos
+>**Principal:** Profesor
+>**Secundarios:** Alumnos
 
 **Datos:**
 
