@@ -11,8 +11,8 @@
 
 **Flujo principal:**
 
-1. EL caso de uso empieza cuando el profesor desea guardar una copia de seguridad de la base de datos.
-2. El sistema genera un fichero y almacena el él la información de la base de datos.
+1. El caso de uso empieza cuando el profesor desea guardar una copia de seguridad de la base de datos.
+2. El sistema genera un fichero y almacena en él la información de la base de datos.
 
 **Postcondiciones:**
 
