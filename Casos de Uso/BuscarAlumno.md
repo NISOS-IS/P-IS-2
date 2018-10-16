@@ -1,10 +1,9 @@
 ### Buscar Alumno
-**ID:** 001
+**ID:** 001   
 **Breve descripción:** El profesor busca un alumno en el sistema.
 
-**Actores principales:** Profesor
-
-**Actores secundarios:** Alumnos
+**Actor principal:** Profesor   
+**Actor secundario:** Alumno
 
 **Precondiciones:**
 

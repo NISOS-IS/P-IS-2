@@ -1,10 +1,9 @@
 ### Guardar copiar de seguridad
-**ID:** 007
+**ID:** 007   
 **Breve descripción:** EL profesor guarda una copia de seguridad.
 
-**Actores principales:** Profesor
-
-**Actores secundarios:** Alumnos
+**Actor principal:** Profesor   
+**Actor secundario:** Alumno
 
 **Precondiciones:**
 

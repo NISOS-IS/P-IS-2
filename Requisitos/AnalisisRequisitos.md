@@ -3,7 +3,7 @@
 **Actores:**
 
 >**Principal:** Profesor   
->**Secundarios:** Alumnos
+>**Secundario:** Alumno
 
 **Datos:**
 

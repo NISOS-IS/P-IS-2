@@ -1,10 +1,9 @@
 ### Borrar Alumno
-**ID:** 004
+**ID:** 004   
 **Breve descripción:** El profesor borra un usuario del sistema.
 
-**Actores principales:** Profesor
-
-**Actores secundarios:** Alumnos
+**Actor principal:** Profesor   
+**Actor secundario:** Alumno
 
 **Precondiciones:**
 
