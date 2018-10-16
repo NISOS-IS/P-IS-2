@@ -1,11 +1,11 @@
 ## (ANVERSO)
-**id:** 007 **Guardar copia de seguridad**
+**ID:** 007 **Guardar copia de seguridad**
 
 ----
 
 Hacer una copia de seguridad de todos los alumnos.
 
-**Prioridad: 4**
+**Prioridad:** 4  
 
 ----
 ## (REVERSO)

@@ -5,7 +5,7 @@
 
 Buscar un alumno por su DNI o por su primer Apellido.
 
-**Prioridad: 1**
+**Prioridad:** 1  
 
 ----
 ## (REVERSO)

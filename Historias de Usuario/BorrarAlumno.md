@@ -5,7 +5,7 @@
 
 Borrar un alumno según su DNI o su Apellido.
 
-**Prioridad: 3**
+**Prioridad:** 3  
 
 ----
 ## (REVERSO)
