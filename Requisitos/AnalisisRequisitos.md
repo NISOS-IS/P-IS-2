@@ -21,7 +21,7 @@
 **Requisitos funcionales:**
 
 * Buscar alumno
-* Inertar alumno
+* Insertar alumno
 * Modificar alumno
 * Borrar alumno
 * Mostrar listado de alumnos
