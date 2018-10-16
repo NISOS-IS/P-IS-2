@@ -12,9 +12,7 @@
 **Flujo principal:**
 
 1. El caso de uso empieza cuando el profesor desea buscar un alumno.
-
 2. El profesor introduce el DNI, el Apellido o el número de equipo que desea buscar.
-
 3. El sistema recoje los datos del alumno.
 
 **Postcondiciones:**
