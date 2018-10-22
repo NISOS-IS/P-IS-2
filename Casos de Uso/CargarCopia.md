@@ -7,7 +7,7 @@
   **Actor secundario:** Alumno.
     
   **Precondiciones:**
-1. la copia de seguridad debe de existir.  
+1. La copia de seguridad debe de existir.  
 
 **Flujo principal:**  
 1. El caso de uso empieza cuando el profesor necesita cargar la copia de seguridad.
