@@ -11,5 +11,5 @@ Poder recuperar la información si ocurre algún fallo.
 ## (REVERSO)
 -----
 
-- Cargará el fichero binario de copia de seguridad con todos los datos guardados en la base de datos.
+- Cargará el fichero binario de copia de seguridad con todos los datos guardados de la base de datos.
 -----
