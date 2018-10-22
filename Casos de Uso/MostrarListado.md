@@ -3,12 +3,12 @@
 **ID:** 005  
 **Breve descripcion:** El sistema muestra la lista de alumnos.  
   
-  **Actor principal:** Profesor.  
-  **Actor secundario:** Alumno.
+  **Actor principal:** Profesor  
+  **Actor secundario:** Alumno
     
   **Precondiciones:**  
   
-  ninguna.  
+  Ninguna.  
 
 **Flujo principal:**  
 1. El caso de uso empieza cuando el sistema necesita mostrar el listado de alumnos.
