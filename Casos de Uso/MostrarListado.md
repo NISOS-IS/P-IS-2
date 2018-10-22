@@ -8,7 +8,7 @@
     
   **Precondiciones:**  
   
-  Ninguna.  
+  1. Ninguna.  
 
 **Flujo principal:**  
 1. El caso de uso empieza cuando el sistema necesita mostrar el listado de alumnos.
