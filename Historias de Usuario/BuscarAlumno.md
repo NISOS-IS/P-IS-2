@@ -3,7 +3,7 @@
 
 ----
 
-Buscar un alumno por su DNI o por su primer Apellido.
+Buscar un alumno por su DNI, por su Apellido o por el número del equipo.
 
 **Prioridad:** 1  
 
@@ -11,5 +11,5 @@ Buscar un alumno por su DNI o por su primer Apellido.
 ## (REVERSO)
 ----
 
-* Buscar un alumno concreto usando como campo clave su DNI o su primer Apellido.
+* Buscar un alumno concreto usando como campo clave su DNI, su Apellido o su número de equipo.
 ----
