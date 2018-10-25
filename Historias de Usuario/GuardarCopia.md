@@ -5,7 +5,7 @@
 
 Hacer una copia de seguridad de todos los alumnos.
 
-**Prioridad:** 4  
+**Prioridad:** 1  
 
 ----
 ## (REVERSO)
