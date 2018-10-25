@@ -5,7 +5,7 @@
 
 Poder recuperar la información si ocurre algún fallo.  
 
-**Prioridad:** 5  
+**Prioridad:** 2  
 
 -----  
 ## (REVERSO)
